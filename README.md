@@ -1,7 +1,8 @@
 # email-notify-aws-ec2-instance-state
 
 How can I get customized email notifications when my EC2 instance changes states?
-Last updated: 2022-01-10
+
+https://aws.amazon.com/premiumsupport/knowledge-center/ec2-email-instance-state-change/
 
 I want to receive email notifications when my Amazon Elastic Compute Cloud (Amazon EC2) instance changes states. How can I do this?
 
